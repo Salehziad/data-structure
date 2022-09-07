@@ -206,6 +206,7 @@ function charCount(s, c) {
 }
 
 // sum of repeating
+https://replit.com/@FarahWahaibi/SociumTech#script.js
 
 // console.log(Object.keys(obj).reduce(function (a, b) {     return obj[a] >
 // obj[b]         ? a         : b }));
